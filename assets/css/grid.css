@@ -73,11 +73,12 @@ body {
 .container {
     background: #fff url(940-grid-bg.png) repeat-y;
 }
+
 .grid1, .grid2, .grid3, .grid4, .grid5, .grid6, .grid7, .grid8, .grid9, .grid10, .grid11 {
     margin-bottom: 15px;
     padding-top: 5px;
     padding-bottom: 5px;
-    background: rgba(255,0,0,.2);
+    /*background: rgba(255,0,0,.2);
     border: solid 1px #999;
-    border-width: 1px 0;
+    border-width: 1px 0;*/
 }
